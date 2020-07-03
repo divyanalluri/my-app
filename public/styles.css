@@ -1,0 +1,9 @@
+#header{
+    display:hidden !important;
+  }
+  
+  #header-container{
+  width:0px;
+  height:0px;
+  overflow: hidden;
+  }
